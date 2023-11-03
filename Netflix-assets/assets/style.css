@@ -1,0 +1,39 @@
+html {
+  background-color: #141414;
+}
+#colore {
+  background-color: #141414;
+}
+ul {
+  list-style-type: none;
+}
+ul li {
+  margin-left: 1rem;
+}
+#kids {
+  display: flex;
+  justify-content: center;
+}
+#alineamento {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.bg-secondary {
+  height: 35px;
+  width: 300px;
+}
+.bottone {
+  height: 41px;
+  margin-top: 81px;
+  margin-left: -110px;
+}
+.bloccoPrincipale-centralizato {
+  width: 800px;
+  margin-inline: auto;
+}
+.bloccoSecondario-SuperCentralizato {
+  width: 500px;
+  margin-inline: auto;
+  margin-top: -7rem;
+}

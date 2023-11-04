@@ -62,3 +62,16 @@ ul li {
   cursor: pointer;
  
 }
+/* #alineamento{
+  color: red;
+  margin-left: 0;
+float: left;
+display: flex;
+justify-content: flex-start;
+
+} */
+#elementoLenteSecondaPagina{
+    top: 4;
+    position: fixed;
+    right: 0;
+  }
